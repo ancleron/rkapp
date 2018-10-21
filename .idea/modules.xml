@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rkappliances.iml" filepath="$PROJECT_DIR$/rkappliances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rkapp.iml" filepath="$PROJECT_DIR$/rkapp.iml" />
     </modules>
   </component>
 </project>

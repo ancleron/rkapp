@@ -19,9 +19,6 @@ import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;
 
 
-import com.ancleron.rkappliances.R;
-import com.ancleron.rkappliances.utils.AppUtils;
-
 public class MainActivity extends AppCompatActivity {
     WebView crm;
 
