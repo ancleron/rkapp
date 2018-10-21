@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ancleron.rkappliances.MainActivity">
+
+ <WebView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+    android:id="@+id/crm"
+
+     />
+ <com.pnikosis.materialishprogress.ProgressWheel
+     android:id="@+id/progressWheel"
+     android:layout_width="45dp"
+     android:layout_height="45dp"
+     android:layout_centerHorizontal="true"
+     android:layout_centerVertical="true"
+     android:visibility="visible"
+     wheel:matProg_barColor="@color/progress"
+     wheel:matProg_progressIndeterminate="true" />
+
+</android.support.constraint.ConstraintLayout>
